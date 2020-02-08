@@ -1,4 +1,4 @@
-Emailage Email fraud checker
+Emailage
 
 1.git clone
 2.nom install
